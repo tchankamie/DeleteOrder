@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Delete Order</string>
+    <string name="textView">Order ID</string>
+    <string name="button">Delete</string>
+</resources>
